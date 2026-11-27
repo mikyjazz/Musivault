@@ -808,7 +808,9 @@
         "recordsPerArtist": "{{n}} per artista",
         "byDecade": "Per decennio",
         "byFormat": "Per formato",
+        "byGenre": "Per genere",
         "byStyle": "Per stile",
+        "otherGenres": "{{count}} altri generi",
         "otherStyles": "{{count}} altri stili",
         "mostValuable": "Dischi di maggior valore"
     },

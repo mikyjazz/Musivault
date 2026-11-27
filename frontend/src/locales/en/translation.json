@@ -808,7 +808,9 @@
         "recordsPerArtist": "{{n}} per artist",
         "byDecade": "By decade",
         "byFormat": "By format",
+        "byGenre": "By genre",
         "byStyle": "By style",
+        "otherGenres": "{{count}} other genres",
         "otherStyles": "{{count}} other styles",
         "mostValuable": "Most valuable records"
     },

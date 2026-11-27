@@ -780,7 +780,9 @@
         "recordsPerArtist": "每位艺人 {{n}} 张",
         "byDecade": "按年代",
         "byFormat": "按格式",
+        "byGenre": "按流派",
         "byStyle": "按风格",
+        "otherGenres": "其他 {{count}} 种流派",
         "otherStyles": "其他 {{count}} 种风格",
         "mostValuable": "最具价值的唱片"
     },

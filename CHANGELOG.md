@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- Show a "By genre" breakdown on the Stats page, between "By format" and "By style"
 - Add and edit users from the Administration page: an "Add user" dialog (username, email, password, administrator) and an edit dialog for the username, email, password and role of an existing user
 - Record security events as structured `audit` lines in the server log, with the client address: logins and signups (a failed login says whether the user exists, never what was typed), throttled login attempts, user creates, edits (which fields changed, not their values, and a role change as `user->admin` or `admin->user`) and deletes, non-administrators calling admin routes, and manual task runs
 
